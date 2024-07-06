@@ -1,2 +1,2 @@
 # Elis XR | AI Assistant
-We brought AI to the world. 
+We added voice recognition and computer vision to our smart headphones prototype. 
